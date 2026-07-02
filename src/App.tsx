@@ -3,6 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
+import { Analytics } from "@vercel/analytics/react";
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import ServicesGrid from "./components/ServicesGrid";
@@ -45,6 +46,9 @@ export default function App() {
 
       {/* 3. Agency Footer */}
       <Footer />
+
+      {/* Vercel Web Analytics */}
+      <Analytics />
     </div>
   );
 }
