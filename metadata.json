@@ -1,0 +1,6 @@
+{
+  "name": "The RIFT Agency",
+  "description": "Premium, highly interactive digital marketing and paid advertising agency portfolio with simulated live campaign studios, budget calculators, and custom brief managers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
